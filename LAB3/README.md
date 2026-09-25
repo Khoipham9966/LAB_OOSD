@@ -16,4 +16,4 @@ Thiết kế thành công giao diện tổng thể của hệ thống Quản lý
 Chạy giả lập CSDL SQL Server lưu trữ bảng.
 
 **Hướng dẫn chạy chương trình**
-- Mở trực tiếp file `KhachSan.exe` để xem giao diện hệ thống.
+Mở trực tiếp file `KhachSan.exe` để xem giao diện hệ thống.
