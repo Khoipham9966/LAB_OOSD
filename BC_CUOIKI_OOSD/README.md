@@ -14,26 +14,37 @@ MSSV: 1250080086
 
 2. Cấu trúc thư mục
 
-EDU05_PhanMem_Mau/
-├── backend/
-│   ├── pom.xml
-│   └── src/main/
-│       ├── java/vn/edu05/
-│       │   ├── Edu05Application.java
-│       │   ├── ApiController.java
-│       │   └── SecurityConfig.java
-│       └── resources/application.properties
-├── frontend/
-│   ├── package.json
-│   ├── vite.config.js
-│   └── src/
-│       ├── App.jsx
-│       ├── api.js
-│       ├── main.jsx
-│       └── style.css
-└── database/
-    ├── 01_schema.sql
-    └── 02_du_lieu_mau.sql
+```text
+EDU05/
+│
+├── README.md
+│
+├── source_code.zip
+│   └── EDU05/
+│       ├── backend/
+│       │   ├── pom.xml
+│       │   └── src/
+│       │       └── main/
+│       │           └── java/
+│       │               └── ...
+│       │                   ├── Edu05Application.java
+│       │                   ├── ApiController.java
+│       │                   └── SecurityConfig.java
+│       │
+│       ├── frontend/
+│       │   ├── package.json
+│       │   └── src/
+│       │       ├── App.jsx
+│       │       ├── api.js
+│       │       ├── main.jsx
+│       │       └── style.css
+│       │
+│       └── database/
+│           ├── 01_schema.sql
+│           └── 02_du_lieu_mau.sql
+│
+└── Thietkeform.xlsx
+```
 
 3. Cơ sở dữ liệu
 
